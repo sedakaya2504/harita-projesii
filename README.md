@@ -1,17 +1,16 @@
-# Coban ve Ciftci Erken Uyari Sistemi
+Küçükbaş ve Büyükbaş Hayvanlar İçin Topluluk Tabanlı Erken Uyarı Sistemi
 
 Bu proje, kırsal alanda hayvancılıkla uğraşan üreticilerin; yırtıcı hayvan saldırısı, çit hasarı veya sürü kaybı gibi tehlikeleri harita üzerinden anlık olarak birbirlerine bildirmelerini sağlayan topluluk tabanlı bir erken uyarı sistemidir.
 
 Waze veya Deprem Ağı mantığının, hayvancılık sektörü için özelleştirilmiş halidir.
 
-## One Cikan Ozellikler
+One Cikan Ozellikler
 
   Interaktif Harita: Kullanıcılar tehlikeleri kuş bakışı harita üzerinde görebilir (OpenStreetMap ve Leaflet).
   Gercek Zamanli (Realtime): Bir kullanıcı bildirim girdiği anda, diğer tüm kullanıcıların haritasında anlık olarak belirir. Sayfa yenilemeye gerek yoktur.
   GPS Konumlandirma: "Beni Bul" özelliği ile kullanıcının arazideki konumu yüksek hassasiyetle tespit edilir.
   Fotografli Kanit: Kullanıcılar tehlike anında fotoğraf çekip sisteme yükleyebilir.
   Mobil Uyumlu: Telefon ve tablet tarayıcılarında sorunsuz çalışacak şekilde tasarlanmıştır.
-
  Kullanilan Teknolojiler
 
 Bu proje Modern Web Mimarisi kullanılarak geliştirilmiştir:
@@ -38,11 +37,6 @@ VITE_SUPABASE_KEY=sizin-anon-public-key
 Telefondan test etmek için (Bilgisayar ve telefon aynı Wi-Fi ağında olmalıdır):npm run dev -- --host
 Veritabani Yapisi
 Proje, Supabase üzerinde "reports" adında tek bir tablo kullanır. Tablo yapısı şöyledir:
-Sutun Adi,Tip,Aciklama
-id,int8,Benzersiz kayıt ID (Primary Key)
-lat,float8,Enlem bilgisi
-lng,float8,Boylam bilgisi
-typeLabel,text,"Tehlike türü (Örn: Kurt, Çit Hasarı)"
-note,text,Kullanıcı açıklaması
-imageUrl,text,Fotoğraf linki
-created_at,timestamp,Oluşturulma tarihi
+<img width="515" height="864" alt="image" src="https://github.com/user-attachments/assets/29885ab1-3f6b-4fc0-887c-8ba755673ec0" />
+
+
