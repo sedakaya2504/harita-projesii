@@ -28,7 +28,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 1. Projeyi Klonlayin
 Terminali açın ve projeyi indirin:
 
-git clone [https://github.com/KULLANICI_ADINIZ/harita-projesii(https://github.com/KULLANICI_ADINIZ/proje-isminiz.git)
+git clone https://github.com/sedakaya2504/harita-projesii.git
 cd harita-projesii
 2. Gerekli Paketleri Yukleyin Proje klasörü içindeyken bağımlılıkları yükleyin:npm install
 3. Cevresel Degiskenleri (.env) Ayarlayin Projenin ana dizininde .env adında bir dosya oluşturun ve Supabase API anahtarlarınızı aşağıdaki formatta girin:Kod snippet'iVITE_SUPABASE_URL=[https://sizin-proje-id.supabase.co](https://sizin-proje-id.supabase.co)
