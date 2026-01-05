@@ -4,7 +4,7 @@ Bu proje, kırsal alanda hayvancılıkla uğraşan üreticilerin; yırtıcı hay
 
 Waze veya Deprem Ağı mantığının, hayvancılık sektörü için özelleştirilmiş halidir.
 
-One Cikan Ozellikler
+Öne ÇIkan Özellikler
 
   Interaktif Harita: Kullanıcılar tehlikeleri kuş bakışı harita üzerinde görebilir (OpenStreetMap ve Leaflet).
   Gercek Zamanli (Realtime): Bir kullanıcı bildirim girdiği anda, diğer tüm kullanıcıların haritasında anlık olarak belirir. Sayfa yenilemeye gerek yoktur.
