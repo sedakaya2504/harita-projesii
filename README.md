@@ -31,7 +31,7 @@ Terminali açın ve projeyi indirin:
 git clone https://github.com/sedakaya2504/harita-projesii.git
 cd harita-projesii
 2. Gerekli Paketleri Yukleyin Proje klasörü içindeyken bağımlılıkları yükleyin:npm install
-3. Cevresel Degiskenleri (.env) Ayarlayin Projenin ana dizininde .env adında bir dosya oluşturun ve Supabase API anahtarlarınızı aşağıdaki formatta girin:Kod snippet'iVITE_SUPABASE_URL=[https://sizin-proje-id.supabase.co](https://sizin-proje-id.supabase.co)
+3. Cevresel Degiskenleri (.env) Ayarlayin Projenin ana dizininde .env adında bir dosya oluşturun ve Supabase API anahtarlarınızı aşağıdaki formatta girin:iVITE_SUPABASE_URL=[https://sizin-proje-id.supabase.co](https://sizin-proje-id.supabase.co)
 VITE_SUPABASE_KEY=sizin-anon-public-key
 4. Uygulamayi BaslatinGeliştirme sunucusunu başlatmak için:npm run dev
 Telefondan test etmek için (Bilgisayar ve telefon aynı Wi-Fi ağında olmalıdır):npm run dev -- --host
